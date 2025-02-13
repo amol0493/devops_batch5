@@ -1,1 +1,3 @@
-"this feature1 of application xyz
+"this feature1 of application xy
+z
+This is new feature hot fix
